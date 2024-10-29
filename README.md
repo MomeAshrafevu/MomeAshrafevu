@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MomeAshrafevu
+- Student at Varendra University
+- Major :Computer Science and Engineering
 - 👀 I’m interested in ...Painting,Gardening, Graphic desingning
-- 
 - 🌱 I’m currently learning ...
 - Java & Flutter
 - 💞️ I’m looking to collaborate on ...
